@@ -161,8 +161,9 @@ sonra:
 sonra emin olmaq ucun id ve ya whoami
 ls
 cat code-3-of-4.txt
-
+cd ../../root
 X8: e29d385f947b97956dffb89fd16888cac4e1d086
+
 
 
 
